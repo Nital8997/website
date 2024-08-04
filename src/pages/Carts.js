@@ -3,6 +3,7 @@ import { Container, Box, Typography, Grid, Button } from '@mui/material'
 import CalendarTodayIcon from '@mui/icons-material/CalendarToday';
 
 function Carts() {
+    console.log('Hi')
     return (
         <div>
             <Box>
