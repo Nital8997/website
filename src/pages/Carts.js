@@ -4,6 +4,7 @@ import CalendarTodayIcon from '@mui/icons-material/CalendarToday';
 
 function Carts() {
     console.log('Hi')
+    console.log('Hi1')
     return (
         <div>
             <Box>
